@@ -39,7 +39,4 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@DaniloSantos17]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/DaniloSantos17)https://www.frontendmentor.io/profile/DaniloSantos17)
