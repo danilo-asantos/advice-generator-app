@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: --
-- Live Site URL: --
+- Live Site URL: https://danilo-asantos.github.io/advice-generator-app/
 
 ### Built with
 
