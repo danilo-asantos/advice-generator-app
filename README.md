@@ -1,4 +1,4 @@
-# Frontend Mentor - Advice generator app solution
+![mobile](https://github.com/danilo-asantos/advice-generator-app/assets/120734288/31e58bfb-cdf4-413b-8dd3-235181bb149f)# Frontend Mentor - Advice generator app solution
 
 This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -23,18 +23,16 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+DESKTOP VERSION:
 ![desktop](https://github.com/danilo-asantos/advice-generator-app/assets/120734288/03bdfd05-e883-4730-9e91-fa8de1337ff3)
-
+MOBILE VERSION:
 ![mobile](https://github.com/danilo-asantos/advice-generator-app/assets/120734288/ecf57a0f-7159-45b7-b44c-c7024567526f)
 
 
 ### Links
 
-DESKTOP VERSION:
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
-MOBILE VERSION:
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: --
+- Live Site URL: --
 
 ### Built with
 
