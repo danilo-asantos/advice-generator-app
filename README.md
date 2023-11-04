@@ -23,9 +23,7 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-DESKTOP VERSION:
 ![desktop](https://github.com/danilo-asantos/advice-generator-app/assets/120734288/03bdfd05-e883-4730-9e91-fa8de1337ff3)
-MOBILE VERSION:
 ![mobile](https://github.com/danilo-asantos/advice-generator-app/assets/120734288/ecf57a0f-7159-45b7-b44c-c7024567526f)
 
 
